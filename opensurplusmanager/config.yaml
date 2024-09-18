@@ -1,6 +1,6 @@
 name: 'OpenSurplusManager'
 description: 'OpenSurplusManager add-on'
-version: 'v0.1.8-beta'
+version: 'v0.1.8.1-beta'
 slug: 'open_surplus_manager'
 init: false
 image: 'ghcr.io/josera9/opensurplusmanager'
