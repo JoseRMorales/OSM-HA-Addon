@@ -1,0 +1,15 @@
+name: 'OpenSurplusManager'
+description: 'OpenSurplusManager add-on'
+version: 'v0.1.8-beta'
+slug: 'open_surplus_manager'
+init: false
+image: 'ghcr.io/josera9/opensurplusmanager'
+url: https://github.com/JoseRa9/OpenSurplusManager
+arch:
+  - amd64
+ports:
+  8080/tcp: 8080
+environment:
+  CONFIG_FILE: /config/osm.yaml
+map:
+  - addon_config:rw
