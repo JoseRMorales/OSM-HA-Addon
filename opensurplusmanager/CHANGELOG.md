@@ -8,4 +8,4 @@
 ## v0.1.8-beta
 
 - Create Home Assistant Add-on
-- Update to v0.1.8-beta [release notes](https://github.com/JoseRa9/OpenSurplusManager/releases/tag/v0.1.8-beta)
+- Update to v0.1.8-beta [release notes](https://github.com/JoseRMorales/OpenSurplusManager/releases/tag/v0.1.8-beta)
