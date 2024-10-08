@@ -3,7 +3,7 @@ description: 'OpenSurplusManager add-on'
 version: 'v0.1.8.1-beta'
 slug: 'open_surplus_manager'
 init: false
-image: 'ghcr.io/JoseRMorales/opensurplusmanager'
+image: 'ghcr.io/josermorales/opensurplusmanager'
 url: https://github.com/JoseRMorales/OpenSurplusManager
 arch:
   - amd64
