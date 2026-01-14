@@ -1,6 +1,6 @@
 # Open Surplus Manager Home Assistant Add-on
 
-This addd-on allows to install and run Open Surplus Manager on Home Assistant.
+This add-on allows to install and run Open Surplus Manager on Home Assistant.
 
 Project documentation: [OpenSurplusManager](https://github.com/JoseRMorales/OpenSurplusManager)
 
